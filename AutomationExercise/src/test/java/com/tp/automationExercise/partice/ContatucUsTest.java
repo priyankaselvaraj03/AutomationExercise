@@ -46,4 +46,9 @@ public class ContatucUsTest extends BaseClass {
 		System.out.println("m2 method");
 	}
 	
+	@Test
+	public void m3() {
+		System.out.println("m3 method");
+	}
+	
 }
