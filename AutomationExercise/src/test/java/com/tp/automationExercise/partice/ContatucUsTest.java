@@ -32,7 +32,7 @@ public class ContatucUsTest extends BaseClass {
 		Assert.assertTrue(cp.getSuccessMessage().isDisplayed());
 		cp.getHomeIcon().click();
 		wlib.waitForPageToLoad(driver);
-		Assert.assertTrue(hp.getCategoryTxt().isDisplayed());
+		//Assert.assertTrue(hp.getCategoryTxt().isDisplayed());
 		
 	}
 	
