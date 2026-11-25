@@ -36,5 +36,9 @@ public class ContatucUsTest extends BaseClass {
 		
 	}
 	
+	@Test
+	public void m1() {
+		System.out.println("m1 method");
+	}
 	
 }
